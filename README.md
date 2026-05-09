@@ -44,7 +44,7 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 
 ## 💻 Tech Stack
 
-<h3>Languages</h3>
+<h3>📌 Languages I Know</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -53,7 +53,7 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<h3>Frontend Development</h3>
+<h3>🎨 Frontend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -61,14 +61,14 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h3>Backend & Databases</h3>
+<h3>⚙️ Backend & Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<h3>Mobile & Other Tools</h3>
+<h3>📱 Mobile & Other Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -79,38 +79,10 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 
 ## 📂 Featured Projects
 
-> 🚀 **AI Summary Project** - *In Development*  
-> An intelligent summarization tool powered by AI and machine learning algorithms.
-
-> 📱 **Android Apps** - Coming Soon!  
-> Building innovative mobile applications using Android development best practices.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashThombare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YashThombare&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashThombare&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-> 💡 **Note**: Top Languages will populate once you push more code to public repositories!
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashThombare&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🚀 **AI Summary Project** | Intelligent summarization tool powered by AI | 🔄 In Development |
+| 📱 **Android Apps** | Mobile applications using Android development best practices | ⏳ Coming Soon |
 
 ---
 
@@ -121,6 +93,35 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 - ✅ Contribute to open-source projects  
 - ✅ Create impact through technology  
 - ✅ Become a skilled software engineer  
+
+---
+
+## 📊 GitHub Statistics
+
+> ⚠️ **Stats will appear here once you push your AI Summary Project and other repositories!**
+
+Once you push code to your public repositories:
+- Your **GitHub Stats** will show up automatically
+- **Top Languages** will display the languages you use most
+- Your **contribution graph** will visualize your activity
+
+**Steps to populate your stats:**
+1. ✅ Make sure your AI Summary Project repository is **public** (not private)
+2. ✅ Push your code to the repository
+3. ✅ Wait 24 hours for GitHub to index your repositories
+4. ✅ Refresh your profile - stats will appear automatically! 🎉
+
+---
+
+## 🔄 How to Update This Profile
+
+Your GitHub profile README will be automatically updated with real stats once you:
+
+1. **Complete your AI Summary Project** 
+2. **Push it to a public repository**
+3. **Add more projects to showcase**
+
+The dynamic stats badges will automatically populate with real data!
 
 ---
 
@@ -138,4 +139,8 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 
 <p align="center">
   ⭐️ <strong>Keep Building. Keep Learning. Keep Growing.</strong> 🚀
+</p>
+
+<p align="center">
+  <sub>Last updated: May 9, 2026</sub>
 </p>
