@@ -22,7 +22,7 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 - 🔒 **Exploring**: Cybersecurity & Network Security  
 - 💻 **Passion**: Building real-world projects that make a difference  
 - 🚀 **Goal**: Become a skilled full-stack developer  
-- 🌱 **Currently**: Working on AI Summary Project & exploring new tech stacks  
+- 🌱 **Currently**: Perfecting my AI Summary Project & exploring new tech stacks  
 
 ---
 
@@ -81,7 +81,7 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🚀 **AI Summary Project** | Intelligent summarization tool powered by AI | 🔄 In Development |
+| 🚀 **AI Summary Project** | Intelligent summarization tool powered by AI | ✅ Finished |
 | 📱 **Android Apps** | Mobile applications using Android development best practices | ⏳ Coming Soon |
 
 ---
