@@ -113,17 +113,6 @@ Once you push code to your public repositories:
 
 ---
 
-## 🔄 How to Update This Profile
-
-Your GitHub profile README will be automatically updated with real stats once you:
-
-1. **Complete your AI Summary Project** 
-2. **Push it to a public repository**
-3. **Add more projects to showcase**
-
-The dynamic stats badges will automatically populate with real data!
-
----
 
 ## 👀 Profile Views
 
