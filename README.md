@@ -1,59 +1,142 @@
 <h1 align="center">Hi 👋, I'm Yash Thombare</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=B.Tech+Student;Android+Developer;AI+%26+Cybersecurity+Enthusiast;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=B.Tech+Student;Android+Developer;AI+%26+Machine+Learning;Cybersecurity+Enthusiast;Full-Stack+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Passion-Building%20Smart%20Solutions-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Dev-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 💫 About Me
-- 🎓 B.Tech Student passionate about tech  
-- 📱 Interested in Android Development  
-- 🤖 Exploring AI & Cybersecurity  
-- 💻 Love building real-world projects  
-- 🚀 Always learning and improving  
+
+I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a strong interest in **AI**, **Android Development**, and **Cybersecurity**. I love creating innovative solutions and learning cutting-edge technologies.
+
+- 🎓 **Education**: B.Tech Student in Computer Science  
+- 📱 **Specialization**: Android Development & Mobile Apps  
+- 🤖 **Interest**: Artificial Intelligence & Machine Learning  
+- 🔒 **Exploring**: Cybersecurity & Network Security  
+- 💻 **Passion**: Building real-world projects that make a difference  
+- 🚀 **Goal**: Become a skilled full-stack developer  
+- 🌱 **Currently**: Working on AI Summary Project & exploring new tech stacks  
 
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-thombare-0a8041312" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yashthombare2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-thombare-0a8041312" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yashthombare2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/YashThombare" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/YashThombare" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
+
+<h3>Languages</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,html,tailwind,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+<h3>Frontend Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<h3>Backend & Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<h3>Mobile & Other Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
+
+> 🚀 **AI Summary Project** - *In Development*  
+> An intelligent summarization tool powered by AI and machine learning algorithms.
+
+> 📱 **Android Apps** - Coming Soon!  
+> Building innovative mobile applications using Android development best practices.
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashThombare&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashThombare&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashThombare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YashThombare&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashThombare&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashThombare&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Goals & Aspirations
+
+- ✅ Master full-stack web development  
+- ✅ Build AI-powered applications  
+- ✅ Contribute to open-source projects  
+- ✅ Create impact through technology  
+- ✅ Become a skilled software engineer  
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YashThombare&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashThombare&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YashThombare&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-⭐️ From Yash Thombare | Keep Building 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-💙-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐️ <strong>Keep Building. Keep Learning. Keep Growing.</strong> 🚀
+</p>
