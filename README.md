@@ -38,9 +38,6 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
   <a href="https://github.com/YashThombare" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/YashThombare" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 ---
@@ -102,7 +99,17 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashThombare&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashThombare&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+> 💡 **Note**: Top Languages will populate once you push more code to public repositories!
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashThombare&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -117,18 +124,10 @@ I'm a passionate **B.Tech student** and aspiring **full-stack developer** with a
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YashThombare&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashThombare&label=Profile%20views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YashThombare&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
